@@ -40,6 +40,7 @@
 
 ## Скриншоты
 
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/ec4d9cde-917c-4c05-95a0-aa86056dc4e5" /> 
 
 
 ## Автор
